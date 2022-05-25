@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+✅ Encodin.works is a India based online solutions provider.
+🌈 Contribution guidelines - Checkout Contribution.md
+👩‍💻 Documentation available at - [Encodindocs](https://encodin.me/docs)
+🍿 Fun facts - Do you want to join Encodin? Email us at hello@encodin.me
+🧙 Remember, you can do mighty things with the power of [Encodin](https://encodin.works)
+❌ We don't provide services like providing vps etc.
+❌ We are associated with @ucskm.tech
+👍 Our founder @harshitkumar9030 is a nice person
